@@ -2,7 +2,7 @@
 
 ## Framework Overview
 
-<img src="visuals/insight-flow-diagram.png" alt="Customer Complaints Insight Framework Flow" width="500">
+<img src="visuals/insight-flow-diagram.png" alt="Customer Complaints Insight Framework Flow" width="300">
 
 
 
