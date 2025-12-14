@@ -1,0 +1,11 @@
+Complaint_ID,Complaint_Date,Policy_Type,Complaint_Trigger,Customer_Awareness,Root_Cause_Category,Preventability,Impact_Type,Escalated,Resolution_Time_Days
+C001,2024-01-05,Travel Insurance,Auto-Renewal,Not Aware,Communication Timing,Preventable,Financial,Yes,12
+C002,2024-01-08,Travel Insurance,Documentation,Partially Aware,Communication Clarity,Preventable,Time/Effort,No,5
+C003,2024-01-12,Travel Insurance,Medical Disclosure,Not Aware,Process Limitation,Partially Preventable,Emotional,Yes,15
+C004,2024-01-15,Travel Insurance,Payment Processing,Aware,System Limitation,Partially Preventable,Financial,No,7
+C005,2024-01-18,Travel Insurance,Auto-Renewal,Not Aware,Customer Assumption,Preventable,Financial,Yes,10
+C006,2024-01-22,Travel Insurance,Policy Cancellation,Partially Aware,Agent Behaviour,Preventable,Time/Effort,No,6
+C007,2024-02-02,Travel Insurance,Documentation,Not Aware,Communication Channel,Preventable,Emotional,Yes,9
+C008,2024-02-06,Travel Insurance,Auto-Renewal,Partially Aware,Communication Timing,Preventable,Financial,No,8
+C009,2024-02-10,Travel Insurance,Medical Disclosure,Aware,Policy Constraint,Not Preventable,Emotional,No,14
+C010,2024-02-15,Travel Insurance,Payment Processing,Not Aware,System Limitation,Partially Preventable,Financial,Yes,11
