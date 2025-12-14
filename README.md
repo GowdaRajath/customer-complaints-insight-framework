@@ -1,6 +1,8 @@
-# customer-complaints-insight-framework
+# Customer-Complaints-Insight-Framework
+
 ## Framework Overview
 
-![Customer Complaints Insight Framework Flow](visuals/insight-flow-diagram.png)
+<img src="visuals/insight-flow-diagram.png" alt="Customer Complaints Insight Framework Flow" width="700">
+
 
 
