@@ -9,6 +9,8 @@
   <br>
   <em>Figure: Customer Complaints Insight Framework – from data to decisions</em>
 </p>
+
+
 *The framework illustrates how complaint data is systematically transformed into actionable decisions through classification, root cause analysis, and continuous feedback.*
 
 
